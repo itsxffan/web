@@ -1,4 +1,4 @@
-areaName,date,newCasesByPublishDate,cumCasesByPublishDate
+areaName,date,dailyCases,totalCases
 England,03/01/2020,0,
 Northern Ireland,03/01/2020,0,
 Scotland,03/01/2020,0,
