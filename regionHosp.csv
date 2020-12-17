@@ -1,0 +1,1485 @@
+date,region,patients,geoOrder
+01/04/2020,East of England,812,4
+01/04/2020,London,4012,5
+01/04/2020,Midlands,2138,3
+01/04/2020,North East and Yorkshire,1254,2
+01/04/2020,North West,1392,1
+01/04/2020,South East,1368,6
+01/04/2020,South West,564,7
+02/04/2020,East of England,796,4
+02/04/2020,London,4009,5
+02/04/2020,Midlands,1729,3
+02/04/2020,North East and Yorkshire,1319,2
+02/04/2020,North West,1476,1
+02/04/2020,South East,1614,6
+02/04/2020,South West,590,7
+03/04/2020,East of England,870,4
+03/04/2020,London,3836,5
+03/04/2020,Midlands,2546,3
+03/04/2020,North East and Yorkshire,1771,2
+03/04/2020,North West,1638,1
+03/04/2020,South East,1541,6
+03/04/2020,South West,642,7
+04/04/2020,East of England,931,4
+04/04/2020,London,4406,5
+04/04/2020,Midlands,2768,3
+04/04/2020,North East and Yorkshire,2013,2
+04/04/2020,North West,2049,1
+04/04/2020,South East,1712,6
+04/04/2020,South West,703,7
+05/04/2020,East of England,1161,4
+05/04/2020,London,4571,5
+05/04/2020,Midlands,2895,3
+05/04/2020,North East and Yorkshire,2218,2
+05/04/2020,North West,2178,1
+05/04/2020,South East,1850,6
+05/04/2020,South West,740,7
+06/04/2020,East of England,1144,4
+06/04/2020,London,4656,5
+06/04/2020,Midlands,3042,3
+06/04/2020,North East and Yorkshire,2041,2
+06/04/2020,North West,2409,1
+06/04/2020,South East,1858,6
+06/04/2020,South West,802,7
+07/04/2020,East of England,1323,4
+07/04/2020,London,4689,5
+07/04/2020,Midlands,3086,3
+07/04/2020,North East and Yorkshire,2113,2
+07/04/2020,North West,2495,1
+07/04/2020,South East,2073,6
+07/04/2020,South West,791,7
+08/04/2020,East of England,1316,4
+08/04/2020,London,4813,5
+08/04/2020,Midlands,3070,3
+08/04/2020,North East and Yorkshire,2319,2
+08/04/2020,North West,2436,1
+08/04/2020,South East,2058,6
+08/04/2020,South West,772,7
+09/04/2020,East of England,1272,4
+09/04/2020,London,4791,5
+09/04/2020,Midlands,2999,3
+09/04/2020,North East and Yorkshire,2567,2
+09/04/2020,North West,2596,1
+09/04/2020,South East,1930,6
+09/04/2020,South West,797,7
+10/04/2020,East of England,1345,4
+10/04/2020,London,4736,5
+10/04/2020,Midlands,3101,3
+10/04/2020,North East and Yorkshire,2304,2
+10/04/2020,North West,2721,1
+10/04/2020,South East,2031,6
+10/04/2020,South West,809,7
+11/04/2020,East of England,1322,4
+11/04/2020,London,4430,5
+11/04/2020,Midlands,3062,3
+11/04/2020,North East and Yorkshire,2422,2
+11/04/2020,North West,2830,1
+11/04/2020,South East,2007,6
+11/04/2020,South West,808,7
+12/04/2020,East of England,1484,4
+12/04/2020,London,4433,5
+12/04/2020,Midlands,3092,3
+12/04/2020,North East and Yorkshire,2440,2
+12/04/2020,North West,2837,1
+12/04/2020,South East,2053,6
+12/04/2020,South West,833,7
+13/04/2020,East of England,1268,4
+13/04/2020,London,4248,5
+13/04/2020,Midlands,2975,3
+13/04/2020,North East and Yorkshire,2470,2
+13/04/2020,North West,2890,1
+13/04/2020,South East,2049,6
+13/04/2020,South West,822,7
+14/04/2020,East of England,1387,4
+14/04/2020,London,4031,5
+14/04/2020,Midlands,2989,3
+14/04/2020,North East and Yorkshire,2431,2
+14/04/2020,North West,2842,1
+14/04/2020,South East,2020,6
+14/04/2020,South West,840,7
+15/04/2020,East of England,1418,4
+15/04/2020,London,3886,5
+15/04/2020,Midlands,2756,3
+15/04/2020,North East and Yorkshire,2400,2
+15/04/2020,North West,2655,1
+15/04/2020,South East,1970,6
+15/04/2020,South West,832,7
+16/04/2020,East of England,1364,4
+16/04/2020,London,3800,5
+16/04/2020,Midlands,2708,3
+16/04/2020,North East and Yorkshire,2353,2
+16/04/2020,North West,2753,1
+16/04/2020,South East,1911,6
+16/04/2020,South West,796,7
+17/04/2020,East of England,1340,4
+17/04/2020,London,3617,5
+17/04/2020,Midlands,2496,3
+17/04/2020,North East and Yorkshire,2206,2
+17/04/2020,North West,2389,1
+17/04/2020,South East,1893,6
+17/04/2020,South West,792,7
+18/04/2020,East of England,1323,4
+18/04/2020,London,3445,5
+18/04/2020,Midlands,2510,3
+18/04/2020,North East and Yorkshire,2236,2
+18/04/2020,North West,2652,1
+18/04/2020,South East,1932,6
+18/04/2020,South West,770,7
+19/04/2020,East of England,1362,4
+19/04/2020,London,3384,5
+19/04/2020,Midlands,2523,3
+19/04/2020,North East and Yorkshire,2217,2
+19/04/2020,North West,2651,1
+19/04/2020,South East,1933,6
+19/04/2020,South West,771,7
+20/04/2020,East of England,1363,4
+20/04/2020,London,3378,5
+20/04/2020,Midlands,2524,3
+20/04/2020,North East and Yorkshire,2121,2
+20/04/2020,North West,2631,1
+20/04/2020,South East,1936,6
+20/04/2020,South West,737,7
+21/04/2020,East of England,1319,4
+21/04/2020,London,3270,5
+21/04/2020,Midlands,2497,3
+21/04/2020,North East and Yorkshire,2226,2
+21/04/2020,North West,2547,1
+21/04/2020,South East,1897,6
+21/04/2020,South West,731,7
+22/04/2020,East of England,1293,4
+22/04/2020,London,3134,5
+22/04/2020,Midlands,2416,3
+22/04/2020,North East and Yorkshire,2148,2
+22/04/2020,North West,2462,1
+22/04/2020,South East,1856,6
+22/04/2020,South West,713,7
+23/04/2020,East of England,1261,4
+23/04/2020,London,2928,5
+23/04/2020,Midlands,2354,3
+23/04/2020,North East and Yorkshire,2095,2
+23/04/2020,North West,2445,1
+23/04/2020,South East,1747,6
+23/04/2020,South West,677,7
+24/04/2020,East of England,1228,4
+24/04/2020,London,2737,5
+24/04/2020,Midlands,2245,3
+24/04/2020,North East and Yorkshire,2054,2
+24/04/2020,North West,2338,1
+24/04/2020,South East,1682,6
+24/04/2020,South West,647,7
+25/04/2020,East of England,1203,4
+25/04/2020,London,2688,5
+25/04/2020,Midlands,2000,3
+25/04/2020,North East and Yorkshire,2018,2
+25/04/2020,North West,2281,1
+25/04/2020,South East,1597,6
+25/04/2020,South West,625,7
+26/04/2020,East of England,1227,4
+26/04/2020,London,2615,5
+26/04/2020,Midlands,2111,3
+26/04/2020,North East and Yorkshire,1963,2
+26/04/2020,North West,2277,1
+26/04/2020,South East,1524,6
+26/04/2020,South West,611,7
+27/04/2020,East of England,1205,4
+27/04/2020,London,2614,5
+27/04/2020,Midlands,2109,3
+27/04/2020,North East and Yorkshire,2007,2
+27/04/2020,North West,2306,1
+27/04/2020,South East,1568,6
+27/04/2020,South West,589,7
+28/04/2020,East of England,1195,4
+28/04/2020,London,2304,5
+28/04/2020,Midlands,2047,3
+28/04/2020,North East and Yorkshire,1973,2
+28/04/2020,North West,2168,1
+28/04/2020,South East,1541,6
+28/04/2020,South West,590,7
+29/04/2020,East of England,1138,4
+29/04/2020,London,2335,5
+29/04/2020,Midlands,1935,3
+29/04/2020,North East and Yorkshire,1911,2
+29/04/2020,North West,2218,1
+29/04/2020,South East,1489,6
+29/04/2020,South West,547,7
+30/04/2020,East of England,1067,4
+30/04/2020,London,2235,5
+30/04/2020,Midlands,1921,3
+30/04/2020,North East and Yorkshire,1862,2
+30/04/2020,North West,2178,1
+30/04/2020,South East,1465,6
+30/04/2020,South West,525,7
+01/05/2020,East of England,1033,4
+01/05/2020,London,2152,5
+01/05/2020,Midlands,1873,3
+01/05/2020,North East and Yorkshire,1854,2
+01/05/2020,North West,2150,1
+01/05/2020,South East,1407,6
+01/05/2020,South West,501,7
+02/05/2020,East of England,1021,4
+02/05/2020,London,2033,5
+02/05/2020,Midlands,1835,3
+02/05/2020,North East and Yorkshire,1835,2
+02/05/2020,North West,2191,1
+02/05/2020,South East,1310,6
+02/05/2020,South West,494,7
+03/05/2020,East of England,1045,4
+03/05/2020,London,2001,5
+03/05/2020,Midlands,1802,3
+03/05/2020,North East and Yorkshire,1814,2
+03/05/2020,North West,2065,1
+03/05/2020,South East,1307,6
+03/05/2020,South West,525,7
+04/05/2020,East of England,961,4
+04/05/2020,London,1935,5
+04/05/2020,Midlands,1777,3
+04/05/2020,North East and Yorkshire,1809,2
+04/05/2020,North West,2094,1
+04/05/2020,South East,1335,6
+04/05/2020,South West,527,7
+05/05/2020,East of England,981,4
+05/05/2020,London,1891,5
+05/05/2020,Midlands,1735,3
+05/05/2020,North East and Yorkshire,1747,2
+05/05/2020,North West,2043,1
+05/05/2020,South East,1291,6
+05/05/2020,South West,527,7
+06/05/2020,East of England,935,4
+06/05/2020,London,1803,5
+06/05/2020,Midlands,1712,3
+06/05/2020,North East and Yorkshire,1671,2
+06/05/2020,North West,1957,1
+06/05/2020,South East,1231,6
+06/05/2020,South West,473,7
+07/05/2020,East of England,894,4
+07/05/2020,London,1736,5
+07/05/2020,Midlands,1598,3
+07/05/2020,North East and Yorkshire,1597,2
+07/05/2020,North West,1840,1
+07/05/2020,South East,1171,6
+07/05/2020,South West,445,7
+08/05/2020,East of England,836,4
+08/05/2020,London,1639,5
+08/05/2020,Midlands,1556,3
+08/05/2020,North East and Yorkshire,1531,2
+08/05/2020,North West,1817,1
+08/05/2020,South East,1123,6
+08/05/2020,South West,402,7
+09/05/2020,East of England,870,4
+09/05/2020,London,1653,5
+09/05/2020,Midlands,1563,3
+09/05/2020,North East and Yorkshire,1497,2
+09/05/2020,North West,1813,1
+09/05/2020,South East,1063,6
+09/05/2020,South West,417,7
+10/05/2020,East of England,903,4
+10/05/2020,London,1579,5
+10/05/2020,Midlands,1523,3
+10/05/2020,North East and Yorkshire,1424,2
+10/05/2020,North West,1723,1
+10/05/2020,South East,1051,6
+10/05/2020,South West,414,7
+11/05/2020,East of England,894,4
+11/05/2020,London,1580,5
+11/05/2020,Midlands,1559,3
+11/05/2020,North East and Yorkshire,1508,2
+11/05/2020,North West,1799,1
+11/05/2020,South East,1062,6
+11/05/2020,South West,417,7
+12/05/2020,East of England,873,4
+12/05/2020,London,1547,5
+12/05/2020,Midlands,1520,3
+12/05/2020,North East and Yorkshire,1465,2
+12/05/2020,North West,1733,1
+12/05/2020,South East,1035,6
+12/05/2020,South West,387,7
+13/05/2020,East of England,851,4
+13/05/2020,London,1490,5
+13/05/2020,Midlands,1502,3
+13/05/2020,North East and Yorkshire,1437,2
+13/05/2020,North West,1711,1
+13/05/2020,South East,996,6
+13/05/2020,South West,378,7
+14/05/2020,East of England,823,4
+14/05/2020,London,1404,5
+14/05/2020,Midlands,1449,3
+14/05/2020,North East and Yorkshire,1360,2
+14/05/2020,North West,1668,1
+14/05/2020,South East,961,6
+14/05/2020,South West,364,7
+15/05/2020,East of England,811,4
+15/05/2020,London,1366,5
+15/05/2020,Midlands,1407,3
+15/05/2020,North East and Yorkshire,1366,2
+15/05/2020,North West,1636,1
+15/05/2020,South East,955,6
+15/05/2020,South West,361,7
+16/05/2020,East of England,777,4
+16/05/2020,London,1315,5
+16/05/2020,Midlands,1385,3
+16/05/2020,North East and Yorkshire,1257,2
+16/05/2020,North West,1580,1
+16/05/2020,South East,866,6
+16/05/2020,South West,347,7
+17/05/2020,East of England,797,4
+17/05/2020,London,1282,5
+17/05/2020,Midlands,1439,3
+17/05/2020,North East and Yorkshire,1240,2
+17/05/2020,North West,1588,1
+17/05/2020,South East,846,6
+17/05/2020,South West,361,7
+18/05/2020,East of England,783,4
+18/05/2020,London,1258,5
+18/05/2020,Midlands,1466,3
+18/05/2020,North East and Yorkshire,1243,2
+18/05/2020,North West,1591,1
+18/05/2020,South East,837,6
+18/05/2020,South West,371,7
+19/05/2020,East of England,787,4
+19/05/2020,London,1182,5
+19/05/2020,Midlands,1440,3
+19/05/2020,North East and Yorkshire,1215,2
+19/05/2020,North West,1636,1
+19/05/2020,South East,818,6
+19/05/2020,South West,358,7
+20/05/2020,East of England,764,4
+20/05/2020,London,1050,5
+20/05/2020,Midlands,1415,3
+20/05/2020,North East and Yorkshire,1143,2
+20/05/2020,North West,1574,1
+20/05/2020,South East,783,6
+20/05/2020,South West,354,7
+21/05/2020,East of England,740,4
+21/05/2020,London,1018,5
+21/05/2020,Midlands,1409,3
+21/05/2020,North East and Yorkshire,1067,2
+21/05/2020,North West,1517,1
+21/05/2020,South East,788,6
+21/05/2020,South West,357,7
+22/05/2020,East of England,718,4
+22/05/2020,London,1047,5
+22/05/2020,Midlands,1381,3
+22/05/2020,North East and Yorkshire,1033,2
+22/05/2020,North West,1495,1
+22/05/2020,South East,818,6
+22/05/2020,South West,335,7
+23/05/2020,East of England,707,4
+23/05/2020,London,961,5
+23/05/2020,Midlands,1303,3
+23/05/2020,North East and Yorkshire,979,2
+23/05/2020,North West,1464,1
+23/05/2020,South East,755,6
+23/05/2020,South West,330,7
+24/05/2020,East of England,683,4
+24/05/2020,London,974,5
+24/05/2020,Midlands,1324,3
+24/05/2020,North East and Yorkshire,982,2
+24/05/2020,North West,1426,1
+24/05/2020,South East,777,6
+24/05/2020,South West,323,7
+25/05/2020,East of England,683,4
+25/05/2020,London,987,5
+25/05/2020,Midlands,1372,3
+25/05/2020,North East and Yorkshire,1014,2
+25/05/2020,North West,1426,1
+25/05/2020,South East,724,6
+25/05/2020,South West,317,7
+26/05/2020,East of England,641,4
+26/05/2020,London,957,5
+26/05/2020,Midlands,1307,3
+26/05/2020,North East and Yorkshire,1013,2
+26/05/2020,North West,1424,1
+26/05/2020,South East,747,6
+26/05/2020,South West,301,7
+27/05/2020,East of England,632,4
+27/05/2020,London,913,5
+27/05/2020,Midlands,1266,3
+27/05/2020,North East and Yorkshire,965,2
+27/05/2020,North West,1342,1
+27/05/2020,South East,720,6
+27/05/2020,South West,271,7
+28/05/2020,East of England,599,4
+28/05/2020,London,861,5
+28/05/2020,Midlands,1228,3
+28/05/2020,North East and Yorkshire,939,2
+28/05/2020,North West,1292,1
+28/05/2020,South East,665,6
+28/05/2020,South West,266,7
+29/05/2020,East of England,502,4
+29/05/2020,London,839,5
+29/05/2020,Midlands,1176,3
+29/05/2020,North East and Yorkshire,903,2
+29/05/2020,North West,1265,1
+29/05/2020,South East,653,6
+29/05/2020,South West,251,7
+30/05/2020,East of England,531,4
+30/05/2020,London,780,5
+30/05/2020,Midlands,1120,3
+30/05/2020,North East and Yorkshire,856,2
+30/05/2020,North West,1218,1
+30/05/2020,South East,599,6
+30/05/2020,South West,236,7
+31/05/2020,East of England,515,4
+31/05/2020,London,748,5
+31/05/2020,Midlands,1113,3
+31/05/2020,North East and Yorkshire,870,2
+31/05/2020,North West,1221,1
+31/05/2020,South East,599,6
+31/05/2020,South West,232,7
+01/06/2020,East of England,526,4
+01/06/2020,London,737,5
+01/06/2020,Midlands,1148,3
+01/06/2020,North East and Yorkshire,867,2
+01/06/2020,North West,1227,1
+01/06/2020,South East,621,6
+01/06/2020,South West,232,7
+02/06/2020,East of England,482,4
+02/06/2020,London,710,5
+02/06/2020,Midlands,1104,3
+02/06/2020,North East and Yorkshire,856,2
+02/06/2020,North West,1217,1
+02/06/2020,South East,607,6
+02/06/2020,South West,232,7
+03/06/2020,East of England,463,4
+03/06/2020,London,696,5
+03/06/2020,Midlands,1054,3
+03/06/2020,North East and Yorkshire,819,2
+03/06/2020,North West,1195,1
+03/06/2020,South East,596,6
+03/06/2020,South West,234,7
+04/06/2020,East of England,425,4
+04/06/2020,London,669,5
+04/06/2020,Midlands,1036,3
+04/06/2020,North East and Yorkshire,767,2
+04/06/2020,North West,1133,1
+04/06/2020,South East,581,6
+04/06/2020,South West,224,7
+05/06/2020,East of England,408,4
+05/06/2020,London,662,5
+05/06/2020,Midlands,987,3
+05/06/2020,North East and Yorkshire,739,2
+05/06/2020,North West,1123,1
+05/06/2020,South East,558,6
+05/06/2020,South West,218,7
+06/06/2020,East of England,439,4
+06/06/2020,London,591,5
+06/06/2020,Midlands,955,3
+06/06/2020,North East and Yorkshire,701,2
+06/06/2020,North West,1056,1
+06/06/2020,South East,551,6
+06/06/2020,South West,213,7
+07/06/2020,East of England,389,4
+07/06/2020,London,586,5
+07/06/2020,Midlands,932,3
+07/06/2020,North East and Yorkshire,698,2
+07/06/2020,North West,1016,1
+07/06/2020,South East,516,6
+07/06/2020,South West,188,7
+08/06/2020,East of England,394,4
+08/06/2020,London,585,5
+08/06/2020,Midlands,936,3
+08/06/2020,North East and Yorkshire,708,2
+08/06/2020,North West,1019,1
+08/06/2020,South East,511,6
+08/06/2020,South West,173,7
+09/06/2020,East of England,355,4
+09/06/2020,London,583,5
+09/06/2020,Midlands,925,3
+09/06/2020,North East and Yorkshire,686,2
+09/06/2020,North West,984,1
+09/06/2020,South East,481,6
+09/06/2020,South West,162,7
+10/06/2020,East of England,338,4
+10/06/2020,London,556,5
+10/06/2020,Midlands,901,3
+10/06/2020,North East and Yorkshire,647,2
+10/06/2020,North West,892,1
+10/06/2020,South East,474,6
+10/06/2020,South West,152,7
+11/06/2020,East of England,327,4
+11/06/2020,London,509,5
+11/06/2020,Midlands,850,3
+11/06/2020,North East and Yorkshire,585,2
+11/06/2020,North West,888,1
+11/06/2020,South East,458,6
+11/06/2020,South West,125,7
+12/06/2020,East of England,318,4
+12/06/2020,London,470,5
+12/06/2020,Midlands,864,3
+12/06/2020,North East and Yorkshire,628,2
+12/06/2020,North West,877,1
+12/06/2020,South East,435,6
+12/06/2020,South West,126,7
+13/06/2020,East of England,314,4
+13/06/2020,London,443,5
+13/06/2020,Midlands,844,3
+13/06/2020,North East and Yorkshire,588,2
+13/06/2020,North West,877,1
+13/06/2020,South East,407,6
+13/06/2020,South West,115,7
+14/06/2020,East of England,304,4
+14/06/2020,London,437,5
+14/06/2020,Midlands,860,3
+14/06/2020,North East and Yorkshire,576,2
+14/06/2020,North West,884,1
+14/06/2020,South East,418,6
+14/06/2020,South West,114,7
+15/06/2020,East of England,278,4
+15/06/2020,London,419,5
+15/06/2020,Midlands,857,3
+15/06/2020,North East and Yorkshire,579,2
+15/06/2020,North West,894,1
+15/06/2020,South East,405,6
+15/06/2020,South West,116,7
+16/06/2020,East of England,322,4
+16/06/2020,London,453,5
+16/06/2020,Midlands,856,3
+16/06/2020,North East and Yorkshire,569,2
+16/06/2020,North West,849,1
+16/06/2020,South East,409,6
+16/06/2020,South West,111,7
+17/06/2020,East of England,347,4
+17/06/2020,London,421,5
+17/06/2020,Midlands,821,3
+17/06/2020,North East and Yorkshire,524,2
+17/06/2020,North West,849,1
+17/06/2020,South East,401,6
+17/06/2020,South West,100,7
+18/06/2020,East of England,325,4
+18/06/2020,London,417,5
+18/06/2020,Midlands,805,3
+18/06/2020,North East and Yorkshire,518,2
+18/06/2020,North West,819,1
+18/06/2020,South East,368,6
+18/06/2020,South West,94,7
+19/06/2020,East of England,357,4
+19/06/2020,London,389,5
+19/06/2020,Midlands,741,3
+19/06/2020,North East and Yorkshire,496,2
+19/06/2020,North West,807,1
+19/06/2020,South East,370,6
+19/06/2020,South West,88,7
+20/06/2020,East of England,320,4
+20/06/2020,London,382,5
+20/06/2020,Midlands,734,3
+20/06/2020,North East and Yorkshire,472,2
+20/06/2020,North West,799,1
+20/06/2020,South East,315,6
+20/06/2020,South West,84,7
+21/06/2020,East of England,317,4
+21/06/2020,London,358,5
+21/06/2020,Midlands,720,3
+21/06/2020,North East and Yorkshire,473,2
+21/06/2020,North West,766,1
+21/06/2020,South East,344,6
+21/06/2020,South West,81,7
+22/06/2020,East of England,338,4
+22/06/2020,London,373,5
+22/06/2020,Midlands,719,3
+22/06/2020,North East and Yorkshire,492,2
+22/06/2020,North West,784,1
+22/06/2020,South East,327,6
+22/06/2020,South West,75,7
+23/06/2020,East of England,309,4
+23/06/2020,London,375,5
+23/06/2020,Midlands,682,3
+23/06/2020,North East and Yorkshire,475,2
+23/06/2020,North West,765,1
+23/06/2020,South East,324,6
+23/06/2020,South West,77,7
+24/06/2020,East of England,319,4
+24/06/2020,London,386,5
+24/06/2020,Midlands,658,3
+24/06/2020,North East and Yorkshire,465,2
+24/06/2020,North West,747,1
+24/06/2020,South East,294,6
+24/06/2020,South West,67,7
+25/06/2020,East of England,301,4
+25/06/2020,London,380,5
+25/06/2020,Midlands,629,3
+25/06/2020,North East and Yorkshire,436,2
+25/06/2020,North West,698,1
+25/06/2020,South East,299,6
+25/06/2020,South West,70,7
+26/06/2020,East of England,286,4
+26/06/2020,London,370,5
+26/06/2020,Midlands,568,3
+26/06/2020,North East and Yorkshire,398,2
+26/06/2020,North West,681,1
+26/06/2020,South East,242,6
+26/06/2020,South West,68,7
+27/06/2020,East of England,263,4
+27/06/2020,London,354,5
+27/06/2020,Midlands,585,3
+27/06/2020,North East and Yorkshire,413,2
+27/06/2020,North West,639,1
+27/06/2020,South East,260,6
+27/06/2020,South West,58,7
+28/06/2020,East of England,262,4
+28/06/2020,London,341,5
+28/06/2020,Midlands,592,3
+28/06/2020,North East and Yorkshire,429,2
+28/06/2020,North West,646,1
+28/06/2020,South East,250,6
+28/06/2020,South West,62,7
+29/06/2020,East of England,269,4
+29/06/2020,London,344,5
+29/06/2020,Midlands,568,3
+29/06/2020,North East and Yorkshire,646,2
+29/06/2020,North West,628,1
+29/06/2020,South East,259,6
+29/06/2020,South West,66,7
+30/06/2020,East of England,246,4
+30/06/2020,London,337,5
+30/06/2020,Midlands,559,3
+30/06/2020,North East and Yorkshire,392,2
+30/06/2020,North West,606,1
+30/06/2020,South East,236,6
+30/06/2020,South West,65,7
+01/07/2020,East of England,230,4
+01/07/2020,London,285,5
+01/07/2020,Midlands,533,3
+01/07/2020,North East and Yorkshire,364,2
+01/07/2020,North West,593,1
+01/07/2020,South East,228,6
+01/07/2020,South West,56,7
+02/07/2020,East of England,211,4
+02/07/2020,London,274,5
+02/07/2020,Midlands,504,3
+02/07/2020,North East and Yorkshire,365,2
+02/07/2020,North West,549,1
+02/07/2020,South East,236,6
+02/07/2020,South West,50,7
+03/07/2020,East of England,223,4
+03/07/2020,London,272,5
+03/07/2020,Midlands,446,3
+03/07/2020,North East and Yorkshire,352,2
+03/07/2020,North West,508,1
+03/07/2020,South East,237,6
+03/07/2020,South West,48,7
+04/07/2020,East of England,201,4
+04/07/2020,London,254,5
+04/07/2020,Midlands,446,3
+04/07/2020,North East and Yorkshire,348,2
+04/07/2020,North West,436,1
+04/07/2020,South East,217,6
+04/07/2020,South West,52,7
+05/07/2020,East of England,206,4
+05/07/2020,London,250,5
+05/07/2020,Midlands,434,3
+05/07/2020,North East and Yorkshire,333,2
+05/07/2020,North West,430,1
+05/07/2020,South East,213,6
+05/07/2020,South West,57,7
+06/07/2020,East of England,210,4
+06/07/2020,London,254,5
+06/07/2020,Midlands,437,3
+06/07/2020,North East and Yorkshire,318,2
+06/07/2020,North West,426,1
+06/07/2020,South East,212,6
+06/07/2020,South West,54,7
+07/07/2020,East of England,206,4
+07/07/2020,London,246,5
+07/07/2020,Midlands,406,3
+07/07/2020,North East and Yorkshire,316,2
+07/07/2020,North West,388,1
+07/07/2020,South East,213,6
+07/07/2020,South West,46,7
+08/07/2020,East of England,205,4
+08/07/2020,London,229,5
+08/07/2020,Midlands,374,3
+08/07/2020,North East and Yorkshire,301,2
+08/07/2020,North West,355,1
+08/07/2020,South East,203,6
+08/07/2020,South West,37,7
+09/07/2020,East of England,193,4
+09/07/2020,London,223,5
+09/07/2020,Midlands,353,3
+09/07/2020,North East and Yorkshire,302,2
+09/07/2020,North West,325,1
+09/07/2020,South East,212,6
+09/07/2020,South West,41,7
+10/07/2020,East of England,180,4
+10/07/2020,London,216,5
+10/07/2020,Midlands,344,3
+10/07/2020,North East and Yorkshire,297,2
+10/07/2020,North West,333,1
+10/07/2020,South East,205,6
+10/07/2020,South West,33,7
+11/07/2020,East of England,154,4
+11/07/2020,London,168,5
+11/07/2020,Midlands,329,3
+11/07/2020,North East and Yorkshire,298,2
+11/07/2020,North West,305,1
+11/07/2020,South East,197,6
+11/07/2020,South West,29,7
+12/07/2020,East of England,156,4
+12/07/2020,London,206,5
+12/07/2020,Midlands,309,3
+12/07/2020,North East and Yorkshire,295,2
+12/07/2020,North West,290,1
+12/07/2020,South East,192,6
+12/07/2020,South West,29,7
+13/07/2020,East of England,160,4
+13/07/2020,London,209,5
+13/07/2020,Midlands,308,3
+13/07/2020,North East and Yorkshire,274,2
+13/07/2020,North West,300,1
+13/07/2020,South East,193,6
+13/07/2020,South West,31,7
+14/07/2020,East of England,146,4
+14/07/2020,London,194,5
+14/07/2020,Midlands,295,3
+14/07/2020,North East and Yorkshire,264,2
+14/07/2020,North West,279,1
+14/07/2020,South East,187,6
+14/07/2020,South West,27,7
+15/07/2020,East of England,153,4
+15/07/2020,London,179,5
+15/07/2020,Midlands,294,3
+15/07/2020,North East and Yorkshire,250,2
+15/07/2020,North West,273,1
+15/07/2020,South East,189,6
+15/07/2020,South West,26,7
+16/07/2020,East of England,111,4
+16/07/2020,London,155,5
+16/07/2020,Midlands,265,3
+16/07/2020,North East and Yorkshire,248,2
+16/07/2020,North West,249,1
+16/07/2020,South East,173,6
+16/07/2020,South West,25,7
+17/07/2020,East of England,129,4
+17/07/2020,London,155,5
+17/07/2020,Midlands,261,3
+17/07/2020,North East and Yorkshire,236,2
+17/07/2020,North West,253,1
+17/07/2020,South East,175,6
+17/07/2020,South West,24,7
+18/07/2020,East of England,135,4
+18/07/2020,London,147,5
+18/07/2020,Midlands,247,3
+18/07/2020,North East and Yorkshire,249,2
+18/07/2020,North West,234,1
+18/07/2020,South East,167,6
+18/07/2020,South West,32,7
+19/07/2020,East of England,133,4
+19/07/2020,London,148,5
+19/07/2020,Midlands,246,3
+19/07/2020,North East and Yorkshire,244,2
+19/07/2020,North West,222,1
+19/07/2020,South East,170,6
+19/07/2020,South West,27,7
+20/07/2020,East of England,134,4
+20/07/2020,London,147,5
+20/07/2020,Midlands,246,3
+20/07/2020,North East and Yorkshire,208,2
+20/07/2020,North West,230,1
+20/07/2020,South East,169,6
+20/07/2020,South West,28,7
+21/07/2020,East of England,104,4
+21/07/2020,London,143,5
+21/07/2020,Midlands,250,3
+21/07/2020,North East and Yorkshire,165,2
+21/07/2020,North West,226,1
+21/07/2020,South East,165,6
+21/07/2020,South West,27,7
+22/07/2020,East of England,108,4
+22/07/2020,London,144,5
+22/07/2020,Midlands,249,3
+22/07/2020,North East and Yorkshire,166,2
+22/07/2020,North West,370,1
+22/07/2020,South East,151,6
+22/07/2020,South West,22,7
+23/07/2020,East of England,93,4
+23/07/2020,London,139,5
+23/07/2020,Midlands,229,3
+23/07/2020,North East and Yorkshire,169,2
+23/07/2020,North West,227,1
+23/07/2020,South East,139,6
+23/07/2020,South West,21,7
+24/07/2020,East of England,99,4
+24/07/2020,London,124,5
+24/07/2020,Midlands,207,3
+24/07/2020,North East and Yorkshire,134,2
+24/07/2020,North West,220,1
+24/07/2020,South East,125,6
+24/07/2020,South West,19,7
+25/07/2020,East of England,85,4
+25/07/2020,London,87,5
+25/07/2020,Midlands,194,3
+25/07/2020,North East and Yorkshire,130,2
+25/07/2020,North West,224,1
+25/07/2020,South East,113,6
+25/07/2020,South West,18,7
+26/07/2020,East of England,98,4
+26/07/2020,London,120,5
+26/07/2020,Midlands,191,3
+26/07/2020,North East and Yorkshire,125,2
+26/07/2020,North West,218,1
+26/07/2020,South East,114,6
+26/07/2020,South West,20,7
+27/07/2020,East of England,93,4
+27/07/2020,London,114,5
+27/07/2020,Midlands,201,3
+27/07/2020,North East and Yorkshire,127,2
+27/07/2020,North West,214,1
+27/07/2020,South East,91,6
+27/07/2020,South West,24,7
+28/07/2020,East of England,89,4
+28/07/2020,London,108,5
+28/07/2020,Midlands,202,3
+28/07/2020,North East and Yorkshire,126,2
+28/07/2020,North West,210,1
+28/07/2020,South East,111,6
+28/07/2020,South West,22,7
+29/07/2020,East of England,88,4
+29/07/2020,London,111,5
+29/07/2020,Midlands,188,3
+29/07/2020,North East and Yorkshire,126,2
+29/07/2020,North West,199,1
+29/07/2020,South East,116,6
+29/07/2020,South West,22,7
+30/07/2020,East of England,78,4
+30/07/2020,London,115,5
+30/07/2020,Midlands,189,3
+30/07/2020,North East and Yorkshire,122,2
+30/07/2020,North West,199,1
+30/07/2020,South East,112,6
+30/07/2020,South West,20,7
+31/07/2020,East of England,73,4
+31/07/2020,London,109,5
+31/07/2020,Midlands,191,3
+31/07/2020,North East and Yorkshire,117,2
+31/07/2020,North West,190,1
+31/07/2020,South East,107,6
+31/07/2020,South West,20,7
+01/08/2020,East of England,81,4
+01/08/2020,London,107,5
+01/08/2020,Midlands,197,3
+01/08/2020,North East and Yorkshire,117,2
+01/08/2020,North West,186,1
+01/08/2020,South East,103,6
+01/08/2020,South West,18,7
+02/08/2020,East of England,76,4
+02/08/2020,London,99,5
+02/08/2020,Midlands,175,3
+02/08/2020,North East and Yorkshire,119,2
+02/08/2020,North West,180,1
+02/08/2020,South East,100,6
+02/08/2020,South West,20,7
+03/08/2020,East of England,69,4
+03/08/2020,London,104,5
+03/08/2020,Midlands,186,3
+03/08/2020,North East and Yorkshire,114,2
+03/08/2020,North West,172,1
+03/08/2020,South East,102,6
+03/08/2020,South West,20,7
+04/08/2020,East of England,64,4
+04/08/2020,London,102,5
+04/08/2020,Midlands,164,3
+04/08/2020,North East and Yorkshire,122,2
+04/08/2020,North West,169,1
+04/08/2020,South East,96,6
+04/08/2020,South West,20,7
+05/08/2020,East of England,64,4
+05/08/2020,London,96,5
+05/08/2020,Midlands,162,3
+05/08/2020,North East and Yorkshire,124,2
+05/08/2020,North West,168,1
+05/08/2020,South East,90,6
+05/08/2020,South West,23,7
+06/08/2020,East of England,66,4
+06/08/2020,London,99,5
+06/08/2020,Midlands,159,3
+06/08/2020,North East and Yorkshire,127,2
+06/08/2020,North West,145,1
+06/08/2020,South East,76,6
+06/08/2020,South West,19,7
+07/08/2020,East of England,54,4
+07/08/2020,London,92,5
+07/08/2020,Midlands,158,3
+07/08/2020,North East and Yorkshire,110,2
+07/08/2020,North West,145,1
+07/08/2020,South East,62,6
+07/08/2020,South West,17,7
+08/08/2020,East of England,53,4
+08/08/2020,London,96,5
+08/08/2020,Midlands,77,3
+08/08/2020,North East and Yorkshire,116,2
+08/08/2020,North West,140,1
+08/08/2020,South East,65,6
+08/08/2020,South West,18,7
+09/08/2020,East of England,53,4
+09/08/2020,London,94,5
+09/08/2020,Midlands,83,3
+09/08/2020,North East and Yorkshire,117,2
+09/08/2020,North West,123,1
+09/08/2020,South East,56,6
+09/08/2020,South West,19,7
+10/08/2020,East of England,58,4
+10/08/2020,London,93,5
+10/08/2020,Midlands,142,3
+10/08/2020,North East and Yorkshire,121,2
+10/08/2020,North West,147,1
+10/08/2020,South East,67,6
+10/08/2020,South West,19,7
+11/08/2020,East of England,55,4
+11/08/2020,London,90,5
+11/08/2020,Midlands,136,3
+11/08/2020,North East and Yorkshire,114,2
+11/08/2020,North West,141,1
+11/08/2020,South East,55,6
+11/08/2020,South West,15,7
+12/08/2020,East of England,52,4
+12/08/2020,London,96,5
+12/08/2020,Midlands,132,3
+12/08/2020,North East and Yorkshire,108,2
+12/08/2020,North West,134,1
+12/08/2020,South East,46,6
+12/08/2020,South West,15,7
+13/08/2020,East of England,53,4
+13/08/2020,London,91,5
+13/08/2020,Midlands,135,3
+13/08/2020,North East and Yorkshire,114,2
+13/08/2020,North West,138,1
+13/08/2020,South East,51,6
+13/08/2020,South West,15,7
+14/08/2020,East of England,48,4
+14/08/2020,London,92,5
+14/08/2020,Midlands,127,3
+14/08/2020,North East and Yorkshire,105,2
+14/08/2020,North West,138,1
+14/08/2020,South East,60,6
+14/08/2020,South West,18,7
+15/08/2020,East of England,56,4
+15/08/2020,London,89,5
+15/08/2020,Midlands,127,3
+15/08/2020,North East and Yorkshire,100,2
+15/08/2020,North West,128,1
+15/08/2020,South East,59,6
+15/08/2020,South West,17,7
+16/08/2020,East of England,50,4
+16/08/2020,London,89,5
+16/08/2020,Midlands,132,3
+16/08/2020,North East and Yorkshire,100,2
+16/08/2020,North West,127,1
+16/08/2020,South East,58,6
+16/08/2020,South West,24,7
+17/08/2020,East of England,53,4
+17/08/2020,London,97,5
+17/08/2020,Midlands,142,3
+17/08/2020,North East and Yorkshire,97,2
+17/08/2020,North West,108,1
+17/08/2020,South East,56,6
+17/08/2020,South West,19,7
+18/08/2020,East of England,44,4
+18/08/2020,London,89,5
+18/08/2020,Midlands,145,3
+18/08/2020,North East and Yorkshire,88,2
+18/08/2020,North West,103,1
+18/08/2020,South East,57,6
+18/08/2020,South West,19,7
+19/08/2020,East of England,46,4
+19/08/2020,London,80,5
+19/08/2020,Midlands,140,3
+19/08/2020,North East and Yorkshire,87,2
+19/08/2020,North West,101,1
+19/08/2020,South East,52,6
+19/08/2020,South West,17,7
+20/08/2020,East of England,44,4
+20/08/2020,London,80,5
+20/08/2020,Midlands,140,3
+20/08/2020,North East and Yorkshire,81,2
+20/08/2020,North West,102,1
+20/08/2020,South East,52,6
+20/08/2020,South West,17,7
+21/08/2020,East of England,37,4
+21/08/2020,London,75,5
+21/08/2020,Midlands,121,3
+21/08/2020,North East and Yorkshire,80,2
+21/08/2020,North West,99,1
+21/08/2020,South East,51,6
+21/08/2020,South West,17,7
+22/08/2020,East of England,31,4
+22/08/2020,London,72,5
+22/08/2020,Midlands,127,3
+22/08/2020,North East and Yorkshire,152,2
+22/08/2020,North West,105,1
+22/08/2020,South East,38,6
+22/08/2020,South West,21,7
+23/08/2020,East of England,29,4
+23/08/2020,London,76,5
+23/08/2020,Midlands,130,3
+23/08/2020,North East and Yorkshire,80,2
+23/08/2020,North West,100,1
+23/08/2020,South East,40,6
+23/08/2020,South West,19,7
+24/08/2020,East of England,33,4
+24/08/2020,London,76,5
+24/08/2020,Midlands,129,3
+24/08/2020,North East and Yorkshire,82,2
+24/08/2020,North West,96,1
+24/08/2020,South East,41,6
+24/08/2020,South West,17,7
+25/08/2020,East of England,26,4
+25/08/2020,London,72,5
+25/08/2020,Midlands,131,3
+25/08/2020,North East and Yorkshire,79,2
+25/08/2020,North West,97,1
+25/08/2020,South East,38,6
+25/08/2020,South West,16,7
+26/08/2020,East of England,35,4
+26/08/2020,London,74,5
+26/08/2020,Midlands,124,3
+26/08/2020,North East and Yorkshire,79,2
+26/08/2020,North West,77,1
+26/08/2020,South East,37,6
+26/08/2020,South West,16,7
+27/08/2020,East of England,27,4
+27/08/2020,London,77,5
+27/08/2020,Midlands,126,3
+27/08/2020,North East and Yorkshire,82,2
+27/08/2020,North West,85,1
+27/08/2020,South East,38,6
+27/08/2020,South West,14,7
+28/08/2020,East of England,28,4
+28/08/2020,London,75,5
+28/08/2020,Midlands,117,3
+28/08/2020,North East and Yorkshire,78,2
+28/08/2020,North West,87,1
+28/08/2020,South East,32,6
+28/08/2020,South West,13,7
+29/08/2020,East of England,26,4
+29/08/2020,London,65,5
+29/08/2020,Midlands,128,3
+29/08/2020,North East and Yorkshire,82,2
+29/08/2020,North West,103,1
+29/08/2020,South East,31,6
+29/08/2020,South West,16,7
+30/08/2020,East of England,27,4
+30/08/2020,London,72,5
+30/08/2020,Midlands,127,3
+30/08/2020,North East and Yorkshire,80,2
+30/08/2020,North West,102,1
+30/08/2020,South East,33,6
+30/08/2020,South West,15,7
+31/08/2020,East of England,28,4
+31/08/2020,London,75,5
+31/08/2020,Midlands,124,3
+31/08/2020,North East and Yorkshire,80,2
+31/08/2020,North West,113,1
+31/08/2020,South East,36,6
+31/08/2020,South West,16,7
+01/09/2020,East of England,28,4
+01/09/2020,London,82,5
+01/09/2020,Midlands,121,3
+01/09/2020,North East and Yorkshire,78,2
+01/09/2020,North West,117,1
+01/09/2020,South East,33,6
+01/09/2020,South West,13,7
+02/09/2020,East of England,28,4
+02/09/2020,London,76,5
+02/09/2020,Midlands,84,3
+02/09/2020,North East and Yorkshire,81,2
+02/09/2020,North West,112,1
+02/09/2020,South East,33,6
+02/09/2020,South West,11,7
+03/09/2020,East of England,29,4
+03/09/2020,London,78,5
+03/09/2020,Midlands,83,3
+03/09/2020,North East and Yorkshire,83,2
+03/09/2020,North West,124,1
+03/09/2020,South East,35,6
+03/09/2020,South West,10,7
+04/09/2020,East of England,29,4
+04/09/2020,London,79,5
+04/09/2020,Midlands,81,3
+04/09/2020,North East and Yorkshire,86,2
+04/09/2020,North West,130,1
+04/09/2020,South East,39,6
+04/09/2020,South West,10,7
+05/09/2020,East of England,24,4
+05/09/2020,London,84,5
+05/09/2020,Midlands,80,3
+05/09/2020,North East and Yorkshire,86,2
+05/09/2020,North West,133,1
+05/09/2020,South East,36,6
+05/09/2020,South West,9,7
+06/09/2020,East of England,26,4
+06/09/2020,London,82,5
+06/09/2020,Midlands,79,3
+06/09/2020,North East and Yorkshire,86,2
+06/09/2020,North West,139,1
+06/09/2020,South East,40,6
+06/09/2020,South West,12,7
+07/09/2020,East of England,27,4
+07/09/2020,London,92,5
+07/09/2020,Midlands,95,3
+07/09/2020,North East and Yorkshire,97,2
+07/09/2020,North West,164,1
+07/09/2020,South East,50,6
+07/09/2020,South West,12,7
+08/09/2020,East of England,25,4
+08/09/2020,London,94,5
+08/09/2020,Midlands,96,3
+08/09/2020,North East and Yorkshire,83,2
+08/09/2020,North West,166,1
+08/09/2020,South East,44,6
+08/09/2020,South West,11,7
+09/09/2020,East of England,30,4
+09/09/2020,London,91,5
+09/09/2020,Midlands,97,3
+09/09/2020,North East and Yorkshire,91,2
+09/09/2020,North West,173,1
+09/09/2020,South East,45,6
+09/09/2020,South West,12,7
+10/09/2020,East of England,26,4
+10/09/2020,London,94,5
+10/09/2020,Midlands,103,3
+10/09/2020,North East and Yorkshire,93,2
+10/09/2020,North West,174,1
+10/09/2020,South East,50,6
+10/09/2020,South West,13,7
+11/09/2020,East of England,15,4
+11/09/2020,London,109,5
+11/09/2020,Midlands,113,3
+11/09/2020,North East and Yorkshire,115,2
+11/09/2020,North West,180,1
+11/09/2020,South East,56,6
+11/09/2020,South West,12,7
+12/09/2020,East of England,20,4
+12/09/2020,London,94,5
+12/09/2020,Midlands,127,3
+12/09/2020,North East and Yorkshire,119,2
+12/09/2020,North West,196,1
+12/09/2020,South East,60,6
+12/09/2020,South West,17,7
+13/09/2020,East of England,21,4
+13/09/2020,London,97,5
+13/09/2020,Midlands,145,3
+13/09/2020,North East and Yorkshire,132,2
+13/09/2020,North West,193,1
+13/09/2020,South East,58,6
+13/09/2020,South West,15,7
+14/09/2020,East of England,25,4
+14/09/2020,London,121,5
+14/09/2020,Midlands,157,3
+14/09/2020,North East and Yorkshire,143,2
+14/09/2020,North West,253,1
+14/09/2020,South East,68,6
+14/09/2020,South West,15,7
+15/09/2020,East of England,35,4
+15/09/2020,London,134,5
+15/09/2020,Midlands,190,3
+15/09/2020,North East and Yorkshire,152,2
+15/09/2020,North West,269,1
+15/09/2020,South East,73,6
+15/09/2020,South West,13,7
+16/09/2020,East of England,40,4
+16/09/2020,London,135,5
+16/09/2020,Midlands,182,3
+16/09/2020,North East and Yorkshire,174,2
+16/09/2020,North West,287,1
+16/09/2020,South East,59,6
+16/09/2020,South West,17,7
+17/09/2020,East of England,42,4
+17/09/2020,London,145,5
+17/09/2020,Midlands,181,3
+17/09/2020,North East and Yorkshire,194,2
+17/09/2020,North West,309,1
+17/09/2020,South East,69,6
+17/09/2020,South West,13,7
+18/09/2020,East of England,36,4
+18/09/2020,London,146,5
+18/09/2020,Midlands,200,3
+18/09/2020,North East and Yorkshire,201,2
+18/09/2020,North West,312,1
+18/09/2020,South East,78,6
+18/09/2020,South West,15,7
+19/09/2020,East of England,38,4
+19/09/2020,London,157,5
+19/09/2020,Midlands,215,3
+19/09/2020,North East and Yorkshire,214,2
+19/09/2020,North West,335,1
+19/09/2020,South East,70,6
+19/09/2020,South West,19,7
+20/09/2020,East of England,37,4
+20/09/2020,London,167,5
+20/09/2020,Midlands,241,3
+20/09/2020,North East and Yorkshire,241,2
+20/09/2020,North West,355,1
+20/09/2020,South East,76,6
+20/09/2020,South West,24,7
+21/09/2020,East of England,40,4
+21/09/2020,London,186,5
+21/09/2020,Midlands,255,3
+21/09/2020,North East and Yorkshire,274,2
+21/09/2020,North West,393,1
+21/09/2020,South East,86,6
+21/09/2020,South West,27,7
+22/09/2020,East of England,41,4
+22/09/2020,London,206,5
+22/09/2020,Midlands,264,3
+22/09/2020,North East and Yorkshire,293,2
+22/09/2020,North West,417,1
+22/09/2020,South East,82,6
+22/09/2020,South West,32,7
+23/09/2020,East of England,36,4
+23/09/2020,London,206,5
+23/09/2020,Midlands,272,3
+23/09/2020,North East and Yorkshire,303,2
+23/09/2020,North West,439,1
+23/09/2020,South East,89,6
+23/09/2020,South West,36,7
+24/09/2020,East of England,39,4
+24/09/2020,London,212,5
+24/09/2020,Midlands,288,3
+24/09/2020,North East and Yorkshire,327,2
+24/09/2020,North West,483,1
+24/09/2020,South East,99,6
+24/09/2020,South West,33,7
+25/09/2020,East of England,43,4
+25/09/2020,London,221,5
+25/09/2020,Midlands,328,3
+25/09/2020,North East and Yorkshire,369,2
+25/09/2020,North West,514,1
+25/09/2020,South East,106,6
+25/09/2020,South West,34,7
+26/09/2020,East of England,50,4
+26/09/2020,London,188,5
+26/09/2020,Midlands,327,3
+26/09/2020,North East and Yorkshire,382,2
+26/09/2020,North West,542,1
+26/09/2020,South East,98,6
+26/09/2020,South West,35,7
+27/09/2020,East of England,62,4
+27/09/2020,London,213,5
+27/09/2020,Midlands,348,3
+27/09/2020,North East and Yorkshire,408,2
+27/09/2020,North West,544,1
+27/09/2020,South East,108,6
+27/09/2020,South West,38,7
+28/09/2020,East of England,73,4
+28/09/2020,London,257,5
+28/09/2020,Midlands,360,3
+28/09/2020,North East and Yorkshire,441,2
+28/09/2020,North West,604,1
+28/09/2020,South East,112,6
+28/09/2020,South West,36,7
+29/09/2020,East of England,85,4
+29/09/2020,London,263,5
+29/09/2020,Midlands,356,3
+29/09/2020,North East and Yorkshire,426,2
+29/09/2020,North West,612,1
+29/09/2020,South East,98,6
+29/09/2020,South West,41,7
+30/09/2020,East of England,81,4
+30/09/2020,London,266,5
+30/09/2020,Midlands,349,3
+30/09/2020,North East and Yorkshire,471,2
+30/09/2020,North West,660,1
+30/09/2020,South East,98,6
+30/09/2020,South West,33,7
+01/10/2020,East of England,75,4
+01/10/2020,London,263,5
+01/10/2020,Midlands,369,3
+01/10/2020,North East and Yorkshire,499,2
+01/10/2020,North West,662,1
+01/10/2020,South East,93,6
+01/10/2020,South West,34,7
+02/10/2020,East of England,91,4
+02/10/2020,London,264,5
+02/10/2020,Midlands,386,3
+02/10/2020,North East and Yorkshire,530,2
+02/10/2020,North West,676,1
+02/10/2020,South East,104,6
+02/10/2020,South West,37,7
+03/10/2020,East of England,98,4
+03/10/2020,London,268,5
+03/10/2020,Midlands,389,3
+03/10/2020,North East and Yorkshire,571,2
+03/10/2020,North West,725,1
+03/10/2020,South East,95,6
+03/10/2020,South West,48,7
+04/10/2020,East of England,94,4
+04/10/2020,London,272,5
+04/10/2020,Midlands,417,3
+04/10/2020,North East and Yorkshire,572,2
+04/10/2020,North West,816,1
+04/10/2020,South East,104,6
+04/10/2020,South West,54,7
+05/10/2020,East of England,111,4
+05/10/2020,London,312,5
+05/10/2020,Midlands,449,3
+05/10/2020,North East and Yorkshire,656,2
+05/10/2020,North West,889,1
+05/10/2020,South East,115,6
+05/10/2020,South West,61,7
+06/10/2020,East of England,115,4
+06/10/2020,London,306,5
+06/10/2020,Midlands,464,3
+06/10/2020,North East and Yorkshire,723,2
+06/10/2020,North West,996,1
+06/10/2020,South East,117,6
+06/10/2020,South West,62,7
+07/10/2020,East of England,125,4
+07/10/2020,London,336,5
+07/10/2020,Midlands,484,3
+07/10/2020,North East and Yorkshire,772,2
+07/10/2020,North West,1030,1
+07/10/2020,South East,129,6
+07/10/2020,South West,68,7
+08/10/2020,East of England,115,4
+08/10/2020,London,323,5
+08/10/2020,Midlands,489,3
+08/10/2020,North East and Yorkshire,813,2
+08/10/2020,North West,1098,1
+08/10/2020,South East,140,6
+08/10/2020,South West,66,7
+09/10/2020,East of England,132,4
+09/10/2020,London,326,5
+09/10/2020,Midlands,514,3
+09/10/2020,North East and Yorkshire,777,2
+09/10/2020,North West,1105,1
+09/10/2020,South East,159,6
+09/10/2020,South West,77,7
+10/10/2020,East of England,132,4
+10/10/2020,London,314,5
+10/10/2020,Midlands,516,3
+10/10/2020,North East and Yorkshire,847,2
+10/10/2020,North West,1167,1
+10/10/2020,South East,161,6
+10/10/2020,South West,88,7
+11/10/2020,East of England,137,4
+11/10/2020,London,338,5
+11/10/2020,Midlands,576,3
+11/10/2020,North East and Yorkshire,914,2
+11/10/2020,North West,1218,1
+11/10/2020,South East,174,6
+11/10/2020,South West,94,7
+12/10/2020,East of England,146,4
+12/10/2020,London,361,5
+12/10/2020,Midlands,622,3
+12/10/2020,North East and Yorkshire,999,2
+12/10/2020,North West,1244,1
+12/10/2020,South East,187,6
+12/10/2020,South West,106,7
+13/10/2020,East of England,160,4
+13/10/2020,London,373,5
+13/10/2020,Midlands,640,3
+13/10/2020,North East and Yorkshire,1025,2
+13/10/2020,North West,1399,1
+13/10/2020,South East,200,6
+13/10/2020,South West,108,7
+14/10/2020,East of England,175,4
+14/10/2020,London,397,5
+14/10/2020,Midlands,685,3
+14/10/2020,North East and Yorkshire,1059,2
+14/10/2020,North West,1501,1
+14/10/2020,South East,221,6
+14/10/2020,South West,118,7
+15/10/2020,East of England,209,4
+15/10/2020,London,404,5
+15/10/2020,Midlands,758,3
+15/10/2020,North East and Yorkshire,1114,2
+15/10/2020,North West,1542,1
+15/10/2020,South East,228,6
+15/10/2020,South West,124,7
+16/10/2020,East of England,213,4
+16/10/2020,London,457,5
+16/10/2020,Midlands,801,3
+16/10/2020,North East and Yorkshire,1132,2
+16/10/2020,North West,1637,1
+16/10/2020,South East,256,6
+16/10/2020,South West,151,7
+17/10/2020,East of England,229,4
+17/10/2020,London,467,5
+17/10/2020,Midlands,823,3
+17/10/2020,North East and Yorkshire,1165,2
+17/10/2020,North West,1703,1
+17/10/2020,South East,269,6
+17/10/2020,South West,158,7
+18/10/2020,East of England,226,4
+18/10/2020,London,498,5
+18/10/2020,Midlands,853,3
+18/10/2020,North East and Yorkshire,1230,2
+18/10/2020,North West,1785,1
+18/10/2020,South East,221,6
+18/10/2020,South West,161,7
+19/10/2020,East of England,260,4
+19/10/2020,London,549,5
+19/10/2020,Midlands,936,3
+19/10/2020,North East and Yorkshire,1327,2
+19/10/2020,North West,1817,1
+19/10/2020,South East,322,6
+19/10/2020,South West,191,7
+20/10/2020,East of England,275,4
+20/10/2020,London,555,5
+20/10/2020,Midlands,1027,3
+20/10/2020,North East and Yorkshire,1401,2
+20/10/2020,North West,2042,1
+20/10/2020,South East,319,6
+20/10/2020,South West,209,7
+21/10/2020,East of England,291,4
+21/10/2020,London,575,5
+21/10/2020,Midlands,1085,3
+21/10/2020,North East and Yorkshire,1459,2
+21/10/2020,North West,2045,1
+21/10/2020,South East,347,6
+21/10/2020,South West,216,7
+22/10/2020,East of England,312,4
+22/10/2020,London,544,5
+22/10/2020,Midlands,1161,3
+22/10/2020,North East and Yorkshire,1536,2
+22/10/2020,North West,1956,1
+22/10/2020,South East,330,6
+22/10/2020,South West,235,7
+23/10/2020,East of England,316,4
+23/10/2020,London,625,5
+23/10/2020,Midlands,1213,3
+23/10/2020,North East and Yorkshire,1595,2
+23/10/2020,North West,2130,1
+23/10/2020,South East,391,6
+23/10/2020,South West,248,7
+24/10/2020,East of England,326,4
+24/10/2020,London,641,5
+24/10/2020,Midlands,1280,3
+24/10/2020,North East and Yorkshire,1685,2
+24/10/2020,North West,2192,1
+24/10/2020,South East,443,6
+24/10/2020,South West,256,7
+25/10/2020,East of England,369,4
+25/10/2020,London,674,5
+25/10/2020,Midlands,1344,3
+25/10/2020,North East and Yorkshire,1806,2
+25/10/2020,North West,2309,1
+25/10/2020,South East,460,6
+25/10/2020,South West,263,7
+26/10/2020,East of England,380,4
+26/10/2020,London,738,5
+26/10/2020,Midlands,1203,3
+26/10/2020,North East and Yorkshire,1962,2
+26/10/2020,North West,2407,1
+26/10/2020,South East,464,6
+26/10/2020,South West,300,7
+27/10/2020,East of England,413,4
+27/10/2020,London,792,5
+27/10/2020,Midlands,1566,3
+27/10/2020,North East and Yorkshire,2077,2
+27/10/2020,North West,2483,1
+27/10/2020,South East,509,6
+27/10/2020,South West,331,7
+28/10/2020,East of England,431,4
+28/10/2020,London,847,5
+28/10/2020,Midlands,1705,3
+28/10/2020,North East and Yorkshire,2158,2
+28/10/2020,North West,2508,1
+28/10/2020,South East,521,6
+28/10/2020,South West,365,7
+29/10/2020,East of England,437,4
+29/10/2020,London,832,5
+29/10/2020,Midlands,1745,3
+29/10/2020,North East and Yorkshire,2172,2
+29/10/2020,North West,2575,1
+29/10/2020,South East,534,6
+29/10/2020,South West,386,7
